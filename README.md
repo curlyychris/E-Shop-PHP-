@@ -1,4 +1,4 @@
-# E-Shop-PHP-
+# E-Shop-PHP
 Enables the seller (the food restaurant) to register and login to the system. 
 Enables the seller to add products to the system. (Each product should have a name, description, price, photo, nutrition facts and the timestamp/time that was added)
 Enables the seller to edit and update products (e.g., ingredients, nutrition facts) already added to the system
